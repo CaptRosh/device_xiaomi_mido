@@ -1,4 +1,5 @@
 
+
 #
 # Copyright (C) 2017 The LineageOS Project
 #
@@ -14,6 +15,7 @@
 # See the License for the specific language governing permissions and
 # limitations under the License.
 #
+
 
 TARGET_PROVIDES_LIBLIGHT := true
 
