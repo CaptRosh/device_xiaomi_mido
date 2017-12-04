@@ -16,6 +16,7 @@
 # limitations under the License.
 #
 
+TARGET_USES_LEGACY_LIBLIGHT := true
 TARGET_PROVIDES_LIBLIGHT := true
 
 
